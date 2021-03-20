@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Actividad_2 {
     public static void main(String[] args) {
         Scanner ask = new Scanner(System.in);
-        int[] numbers = arrayNumbers();
+        int[] numbers = arrayNumbers(); // Se crea el array con n numeros
         boolean menu = true;
 
 
